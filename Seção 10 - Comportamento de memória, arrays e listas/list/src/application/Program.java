@@ -45,6 +45,5 @@ public class Program {
         for (String x: result) {
             System.out.println(x);
         }
-
     }
 }
