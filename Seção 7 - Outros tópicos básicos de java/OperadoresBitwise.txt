@@ -1,4 +1,0 @@
-& - Operação "E" bit a bit
-| - Operação "OU" bit a bit
-^ - Operação "OU-EXCLUSIVO" bit a bit
-
